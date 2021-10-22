@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities.Models
 {
-    class Product : IEntity
+    public class Product : IEntity
     {
         public int Id { get; set; }
         public string Name { get; set; }

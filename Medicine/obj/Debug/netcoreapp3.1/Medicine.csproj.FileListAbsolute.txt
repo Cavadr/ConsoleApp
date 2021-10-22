@@ -1,0 +1,13 @@
+C:\Users\javadir\source\repos\StorageCore\Medicine\bin\Debug\netcoreapp3.1\Medicine.exe
+C:\Users\javadir\source\repos\StorageCore\Medicine\bin\Debug\netcoreapp3.1\Medicine.deps.json
+C:\Users\javadir\source\repos\StorageCore\Medicine\bin\Debug\netcoreapp3.1\Medicine.runtimeconfig.json
+C:\Users\javadir\source\repos\StorageCore\Medicine\bin\Debug\netcoreapp3.1\Medicine.runtimeconfig.dev.json
+C:\Users\javadir\source\repos\StorageCore\Medicine\bin\Debug\netcoreapp3.1\Medicine.dll
+C:\Users\javadir\source\repos\StorageCore\Medicine\bin\Debug\netcoreapp3.1\Medicine.pdb
+C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.csprojAssemblyReference.cache
+C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.AssemblyInfoInputs.cache
+C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.AssemblyInfo.cs
+C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.dll
+C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.pdb
+C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.genruntimeconfig.cache
