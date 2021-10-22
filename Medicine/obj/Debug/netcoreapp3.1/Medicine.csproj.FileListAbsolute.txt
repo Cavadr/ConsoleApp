@@ -11,3 +11,19 @@ C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medic
 C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.dll
 C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.pdb
 C:\Users\javadir\source\repos\StorageCore\Medicine\obj\Debug\netcoreapp3.1\Medicine.genruntimeconfig.cache
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Medicine.exe
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Medicine.deps.json
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Medicine.runtimeconfig.json
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Medicine.runtimeconfig.dev.json
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Medicine.dll
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Medicine.pdb
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.csproj.AssemblyReference.cache
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.AssemblyInfoInputs.cache
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.AssemblyInfo.cs
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.dll
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.pdb
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\obj\Debug\netcoreapp3.1\Medicine.genruntimeconfig.cache
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Utilies.dll
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Medicine\bin\Debug\netcoreapp3.1\Utilies.pdb

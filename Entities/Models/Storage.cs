@@ -9,6 +9,6 @@ namespace Entities.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string MaxSize { get; set; }
+        public int MaxSize { get; set; }
     }
 }

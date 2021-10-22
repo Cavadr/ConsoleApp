@@ -9,14 +9,25 @@ namespace Business.Services
 {
     public class StorageService : IStorage
     {
-        public StorageRepository StorageRepository { get; set; }
+        public StorageRepository storageRepository { get; set; }
         private static int count { get; set; }
+        public StorageService()
+        {
+            storageRepository = new StorageRepository();
+        }
         
         public Storage Create(Storage storage)
         {
             try
             {
                 storage.Id = count;
+                Storage isExist =
+                    storageRepository.Get(s => s.Name.ToLower() == storage.Name.ToLower());
+                if (isExist != null)
+                    return null;
+                storageRepository.Create(storage);
+                count++;
+                return storage;
 
             }
             catch (Exception)
@@ -43,7 +54,7 @@ namespace Business.Services
 
         public List<Storage> GetAll()
         {
-            throw new NotImplementedException();
+            return storageRepository.GetAll();
         }
 
         public List<Storage> GetAll(int MaxSize)

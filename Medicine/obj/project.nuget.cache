@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T7E+Yqho3BD+jXkDzYXoiAnACsdsdBOJHUy0j1xHDCwMbZzrEjAv7ZxzuRX48Ac20w3GlwquWyWNtp1kpzcXgg==",
+  "dgSpecHash": "MEFekUkSptFhAqxYUl7jk5FDBeTLHOoMJFWKj9zsexffot59KfbOa+GxzOxsHt9XV1hAykLFxlH3Nhgr0nJB/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Medicine\\Medicine.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\javadir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Medicine\\Medicine.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

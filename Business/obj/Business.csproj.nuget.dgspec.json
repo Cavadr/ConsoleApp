@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javadir\\source\\repos\\StorageCore\\Business\\Business.csproj": {}
+    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javadir\\source\\repos\\StorageCore\\Business\\Business.csproj": {
+    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\javadir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Business\\obj\\",
+        "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cavad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\javadir\\source\\repos\\StorageCore\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\DataAccess\\DataAccess.csproj"
-              },
-              "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\Entities.csproj"
+              "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -66,25 +62,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\javadir\\source\\repos\\StorageCore\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javadir\\source\\repos\\StorageCore\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\javadir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cavad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -99,8 +94,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\Entities.csproj"
+              "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj"
               }
             }
           }
@@ -129,25 +124,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\Entities.csproj": {
+    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\javadir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javadir\\source\\repos\\StorageCore\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\javadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cavad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -188,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

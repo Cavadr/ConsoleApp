@@ -7,6 +7,13 @@ namespace Business.Interfaces
 {
     public interface IStorage
     {
-        Storage
+        Storage Create(Storage storage);
+        Storage Update(int Id, Storage storage);
+        Storage Delete(int Id);
+        Storage Get(int Id);
+        Storage Get(string Name);
+        List<Storage> GetAll();
+        List<Storage> GetAll(int MaxSize);
+
     }
 }
