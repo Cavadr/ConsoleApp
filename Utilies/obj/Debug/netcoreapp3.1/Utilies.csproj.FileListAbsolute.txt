@@ -7,3 +7,4 @@ C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.csproj.CoreCompileInputs.cache
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.dll
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.pdb
+C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.csproj.AssemblyReference.cache

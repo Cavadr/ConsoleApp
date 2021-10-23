@@ -10,6 +10,5 @@ C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Business\bin\Debug\netcoreapp
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Business\bin\Debug\netcoreapp3.1\Entities.dll
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Business\bin\Debug\netcoreapp3.1\Entities.pdb
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Business\obj\Debug\netcoreapp3.1\Business.pdb

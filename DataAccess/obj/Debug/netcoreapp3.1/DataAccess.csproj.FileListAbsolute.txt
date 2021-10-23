@@ -20,6 +20,5 @@ C:\Users\cavad\Desktop\Medicine project\ConsoleApp\DataAccess\obj\Debug\netcorea
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\cavad\Desktop\Medicine project\ConsoleApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
