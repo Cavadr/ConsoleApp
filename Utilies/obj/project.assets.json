@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Utilies\\Utilies.csproj",
+      "projectUniqueName": "C:\\Users\\cavad\\source\\repos\\PharmacyStorageCore\\Utilies\\Utilies.csproj",
       "projectName": "Utilies",
-      "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Utilies\\Utilies.csproj",
+      "projectPath": "C:\\Users\\cavad\\source\\repos\\PharmacyStorageCore\\Utilies\\Utilies.csproj",
       "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Utilies\\obj\\",
+      "outputPath": "C:\\Users\\cavad\\source\\repos\\PharmacyStorageCore\\Utilies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,9 +7,9 @@ namespace DataAccess
 {
     public static class DbContext
     {
-        public static List<Product> Products { get;  }
+        public static List<Product> Products { get; }
         public static List<Storage> Storages { get; }
-         static  DbContext()
+        static  DbContext()
         {
             Products = new List<Product>();
             Storages = new List<Storage>();

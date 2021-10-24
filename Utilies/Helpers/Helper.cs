@@ -12,6 +12,19 @@ namespace Utilies.Helpers
             Console.WriteLine(message);
             Console.ResetColor();
         }
-        
+      public enum Menu
+        {
+            Exit,
+            CreateStorage,
+            UploadStorage,
+            DeleteStorage,
+            GetStorageWithId,
+            GetStoragewithName,
+            GetAllStorages,
+            GetStoragesWithSize,
+            CreateProduct,
+            GetAllProductWithStorage
+
+        }
     }
 }

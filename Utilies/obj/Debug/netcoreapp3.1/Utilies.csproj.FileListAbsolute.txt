@@ -1,10 +1,10 @@
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\bin\Debug\netcoreapp3.1\Utilies.deps.json
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\bin\Debug\netcoreapp3.1\Utilies.dll
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\bin\Debug\netcoreapp3.1\Utilies.pdb
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.AssemblyInfoInputs.cache
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.AssemblyInfo.cs
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.csproj.CoreCompileInputs.cache
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.dll
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.pdb
-C:\Users\cavad\Desktop\Medicine project\ConsoleApp\Utilies\obj\Debug\netcoreapp3.1\Utilies.csproj.AssemblyReference.cache
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\bin\Debug\netcoreapp3.1\Utilies.deps.json
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\bin\Debug\netcoreapp3.1\Utilies.dll
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\bin\Debug\netcoreapp3.1\Utilies.pdb
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\obj\Debug\netcoreapp3.1\Utilies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\obj\Debug\netcoreapp3.1\Utilies.AssemblyInfoInputs.cache
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\obj\Debug\netcoreapp3.1\Utilies.AssemblyInfo.cs
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\obj\Debug\netcoreapp3.1\Utilies.csproj.CoreCompileInputs.cache
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\obj\Debug\netcoreapp3.1\Utilies.dll
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\obj\Debug\netcoreapp3.1\Utilies.pdb
+C:\Users\cavad\source\repos\PharmacyStorageCore\Utilies\obj\Debug\netcoreapp3.1\Utilies.csproj.AssemblyReference.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KQtWaOFqkweIXLCNx7G5qdUlEbqquzEPTgfNvrSo83+M7nnwcMJelrorZy8NQP/y8U7u+85uo5DBZc91b14ZnQ==",
+  "dgSpecHash": "letxE7efh++nTgFFajcbtKeOR5IJf/ZSaezmHsGgfPkaAjEA0OFf87GB9MdDuUYeK7EfKVy1ZOTvjuCffuW9Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Utilies\\Utilies.csproj",
+  "projectFilePath": "C:\\Users\\cavad\\source\\repos\\PharmacyStorageCore\\Utilies\\Utilies.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
