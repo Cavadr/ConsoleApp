@@ -1,5 +1,4 @@
-﻿using Business.Services;
-using Entities.Models;
+﻿using Entities.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -7,12 +6,13 @@ using Utilies.Helpers;
 
 namespace PharmacyApp.Controllers
 {
-    public class ProductController
+    class ProductController
     {
-        private ProductService productService{ get;}
+        private ProductService productService { get; }
         public ProductController()
         {
             productService = new ProductService();
+
         }
         public void Create()
         {
@@ -23,8 +23,8 @@ namespace PharmacyApp.Controllers
             Helper.ChangeTextColor(ConsoleColor.Magenta, "Enter kind of product:");
             string kind = Console.ReadLine();
             Product product = new Product { Name = name, Kind = kind };
-            Product newPr= productService.Create(product, storageName);
-            if (newPr!=null)
+            Product newPr = productService.Create(product, storageName);
+            if (newPr != null)
             {
                 Helper.ChangeTextColor(ConsoleColor.Cyan,
                     $"New product is created: {newPr.Name} - {newPr.Kind}");

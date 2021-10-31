@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj": {}
+    "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj": {
+    "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Business\\obj\\",
+        "outputPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,8 +94,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj"
+              "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Entities\\Entities.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj": {
+    "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\cavad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cavad\\Desktop\\Medicine project\\ConsoleApp\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\cavad\\Desktop\\PharmacyStorage\\ConsoleApp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
